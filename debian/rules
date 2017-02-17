@@ -4,4 +4,4 @@
 export PYBUILD_NAME = tunneldigger
 
 %:
-	dh $@ --with python2,python3 --buildsystem=pybuild
+	dh $@ --with python2,python3 --with systemd --buildsystem=pybuild
