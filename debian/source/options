@@ -1,0 +1,2 @@
+tar-ignore = "tunneldigger_broker.egg-info"
+tar-ignore = ".git"
