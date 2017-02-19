@@ -1,3 +1,9 @@
+tunneldigger-broker (0.2.0+debian1) unstable; urgency=medium
+
+  * Added hook scripts with run-parts
+
+ -- Swen Kühnlein <swen@home-area.net>  Sun, 19 Feb 2017 19:20:50 +0100
+
 tunneldigger-broker (0.2.0) unstable; urgency=medium
 
   * Initial release.

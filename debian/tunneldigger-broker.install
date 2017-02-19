@@ -1,2 +1,6 @@
-debian/l2tp_broker.cfg etc
+debian/files/l2tp_broker.cfg etc/tunneldigger-broker
+debian/files/session.up etc/tunneldigger-broker
+debian/files/session.pre-down etc/tunneldigger-broker
+debian/files/session.down etc/tunneldigger-broker
+debian/files/session.mtu-changed etc/tunneldigger-broker
 debian/tunneldigger-broker.service lib/systemd/system

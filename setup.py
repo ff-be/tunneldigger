@@ -8,7 +8,7 @@ setup(
     package_dir={"tunneldigger": "broker"},
     entry_points={
         "console_scripts": [
-            "tunneldigger = tunneldigger.main",
+            "tunneldigger-broker = tunneldigger.main",
         ]
     },
 
