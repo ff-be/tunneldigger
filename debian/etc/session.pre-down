@@ -1,0 +1,3 @@
+#!/bin/sh
+
+run-parts /etc/tunneldigger-broker/$0.d/ $@
